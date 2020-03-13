@@ -298,7 +298,7 @@ footer nav a {
     margin-top:3%;
     margin-bottom:5%;
     animation-name: color-change;
-    animation-duration: 4s;
+    animation-duration: 10s;
 }
 /* CSS Animations */
 @keyframes color-change {
